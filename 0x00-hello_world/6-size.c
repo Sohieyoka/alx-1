@@ -1,4 +1,4 @@
-i#include<stdio.h>
+#include<stdio.h>
 /**
 * main - Entry point
 *
@@ -13,3 +13,4 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
 }
+
